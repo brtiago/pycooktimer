@@ -1,5 +1,5 @@
 # pycooktimer
-A Python version of the project [CookTimer](code.google.com/p/cooktimer)
+A Python version of the project [CookTimer](https://code.google.com/p/cooktimer)
 
 pycooktimer is a simple cross-platform countdown timer that helps when cooking, 
 making tea or eggs. It also works for any other timing purpose such as 
