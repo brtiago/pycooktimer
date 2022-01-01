@@ -1,4 +1,6 @@
 # pycooktimer
+-------------
+
 A Python version of the project [CookTimer](https://code.google.com/p/cooktimer)
 
 pycooktimer is a simple cross-platform countdown timer that helps when cooking, 
